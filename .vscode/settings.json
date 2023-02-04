@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "cstdarg": "c",
+        "cstdio": "c",
+        "cstdlib": "c"
+    }
+}
